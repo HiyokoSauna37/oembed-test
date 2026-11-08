@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "title": "H1 oEmbed Test",
+  "provider_name": "H1 Security Research",
+  "provider_url": "https://hiyokosauna37.github.io/oembed-test/",
+  "width": 480,
+  "height": 120,
+  "html": "<div style=\"background:#c00;color:#fff;padding:20px;font-size:18px;font-family:sans-serif;\">H1OEMBED-MARKER: If you see this red box, the oEmbed html field was rendered without sanitization.</div>"
+}
