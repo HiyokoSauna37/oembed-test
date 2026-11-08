@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "type": "video",
+  "title": "H1 oEmbed Test v2",
+  "provider_name": "YouTube",
+  "provider_url": "https://www.youtube.com/",
+  "author_name": "H1 Security Research",
+  "author_url": "https://hiyokosauna37.github.io/oembed-test/v2/",
+  "width": 480,
+  "height": 270,
+  "html": "<div id=\"h1oembed-marker-v2\" style=\"width:480px;height:120px;background:#0a0;color:#fff;font:18px sans-serif;padding:20px;\">H1OEMBED-MARKER-V2</div>"
+}
