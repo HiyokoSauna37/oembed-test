@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "type": "video",
+  "title": "H1 oEmbed Test v3",
+  "provider_name": "YouTube",
+  "provider_url": "https://www.youtube.com/",
+  "author_name": "H1 Security Research",
+  "author_url": "https://hiyokosauna37.github.io/oembed-test/v3/",
+  "width": 480,
+  "height": 120,
+  "html": "<iframe src=\"https://hiyokosauna37.github.io/oembed-test/v3/frame.html\" width=\"480\" height=\"120\" frameborder=\"0\" allowfullscreen></iframe>"
+}
